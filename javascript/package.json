@@ -32,7 +32,7 @@
   },
   "dependencies": {
     "autogypi": "^0.2.2",
-    "nbind": "^0.3.14",
+    "@mcesystems/nbind": "^0.3.18",
     "node-gyp": "^3.6.2"
   },
   "devDependencies": {
